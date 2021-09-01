@@ -1,0 +1,26 @@
+{
+  "name": "dbSheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xZANELLA/dbSheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xZANELLA/dbSheet/issues"
+  },
+  "homepage": "https://github.com/xZANELLA/dbSheet#readme",
+  "dependencies": {
+    "googleapis": "^85.0.0",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
